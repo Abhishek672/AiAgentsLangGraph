@@ -4,3 +4,4 @@
 3. RegularSearchVsAgenticSearch - Difference on what LLM expects from a search tool like tavily vs what normal search api returns
 4. PersistenceAndStreaming - How persistence is used to help model answer based on previous context. (Need to read more about sync and sync streaming)
 5. HumanInTheLoop - Interrputing agent state history, modifying the state of agent
+6. EssayWriter - creating multiple agents for writing an essay.
